@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+    text-align: center;
+}
+.classic {
+    width: 200px;
+    border-radius: 8px;
+}
+.card {
+    width: 400px;
+    display: flex;
+    background: burlywood;
+    color: black;
+    border: 1px solid burlywood;
+    border-radius: 8px;
+    border-bottom: 4px solid black;
+    padding: 20px;
+    justify-content: space-around;
+    margin-left: 0 auto;
+    text-align: center;
+}
