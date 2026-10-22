@@ -1,0 +1,19 @@
+[index.html](https://github.com/user-attachments/files/33816996/index.html)
+<!DOCTYPE html>
+<html>
+     <head>
+          <link rel="stylesheet" href="Style.css"/>
+     </head>
+     <body>
+         <div class="card">
+             <img 
+                 src="https://media.istockphoto.com/id/1291595910/vector/welcome-hand-drawn-line-calligraphy.jpg?s=612x612&w=0&k=20&c=goUHdEKtugX9GLbMV5ZixY4UoHX6b-TbyqIrwiDX0us="
+                 class="classic">
+            <div>
+                <h3>Bereket Ambaye</h3>
+                <p>Frontend Developer</p>
+                <h4>Addis Ababa,Ethiopia</h4>
+            </div>
+        </div>
+     </body>
+</html>
